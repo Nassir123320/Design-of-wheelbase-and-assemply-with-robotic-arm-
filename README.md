@@ -1,4 +1,4 @@
-# Design-of-wheelbase-and-assemply-with-robotic-arm-
+# Design-of-wheelbase-and-assembly-with-robotic-arm-
 
 in this project  I have made a design of wheelbase that we will use it to hold the robotic arm .
 
